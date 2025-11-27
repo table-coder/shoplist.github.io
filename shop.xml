@@ -2,7 +2,8 @@
 <fl-shop>
     <character id="test" type="survivor">
         <name>Test</name>
+        <image>DEAL WITH THIS LATER, I'M GONNA TEST PARSING</image>
         <description>i'm evil</description>
-        <ratings></ratings>
+        <ratings>same thing for images</ratings>
     </character>
 </fl-shop>
