@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fl-shop>
+    <character id="test" type="survivor">
+        <name>Test</name>
+        <description>i'm evil</description>
+        <ratings></ratings>
+    </character>
+</fl-shop>
